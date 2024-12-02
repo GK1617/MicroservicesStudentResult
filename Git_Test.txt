@@ -1,1 +1,1 @@
-Hello GK Welcome to Git Explore with your team...!
+Hello GK Welcome to Git Explore with your team members...!
